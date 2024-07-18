@@ -33,7 +33,6 @@ Hệ thống Quản lý Đào tạo Trực tuyến là một ứng dụng đư�
 
 ### Cài đặt
 1. Clone repository:
-git clone https://github.com/IndigoComb15711/-Online-training-management.git
 2. Cấu hình cơ sở dữ liệu:
 - Tạo database trong SQL Server và MongoDB
 - Cập nhật thông tin kết nối trong file `application.properties`
