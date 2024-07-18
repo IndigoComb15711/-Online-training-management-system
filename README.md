@@ -23,34 +23,6 @@ Hệ thống Quản lý Đào tạo Trực tuyến là một ứng dụng đư�
 - Quản lý lịch giảng dạy của giảng viên
 
 ## Cài đặt và Sử dụng
-(Hướng dẫn cài đặt và sử dụng sẽ được cập nhật sau)
-
-## Công nghệ sử dụng
-(# Hệ thống Quản lý Đào tạo Trực tuyến
-
-## Giới thiệu
-Hệ thống Quản lý Đào tạo Trực tuyến là một ứng dụng được phát triển nhằm hỗ trợ các trung tâm đào tạo trực tuyến trong việc quản lý khóa học, học viên và giảng viên. Hệ thống cung cấp các chức năng quản lý thông tin, thống kê và báo cáo để tối ưu hóa quy trình đào tạo.
-
-## Tính năng chính
-
-### 1. Quản lý khóa học
-- Lưu trữ thông tin: Mã khóa học, tên khóa học, giảng viên phụ trách, thời lượng, học phí
-- Tìm kiếm khóa học theo giảng viên và học phí
-- Hiển thị danh sách khóa học phổ biến nhất
-
-### 2. Quản lý học viên
-- Lưu trữ thông tin: Mã học viên, họ tên, địa chỉ, số điện thoại, email
-- Hiển thị danh sách học viên đăng ký theo khóa học
-- Quản lý thông tin học viên hoàn thành khóa học
-- Tính tổng số học viên đăng ký theo thời gian
-
-### 3. Quản lý giảng viên
-- Lưu trữ thông tin: Mã giảng viên, họ tên, chuyên môn, kinh nghiệm
-- Thống kê số lượng học viên theo giảng viên
-- Báo cáo danh sách giảng viên có nhiều học viên nhất
-- Quản lý lịch giảng dạy của giảng viên
-
-## Cài đặt và Sử dụng
 
 ### Yêu cầu hệ thống
 - Java Development Kit (JDK) 11 trở lên
