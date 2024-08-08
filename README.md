@@ -34,7 +34,7 @@ Hệ thống Quản lý Đào tạo Trực tuyến là một ứng dụng đư�
 ### Cài đặt
 1. Clone repository:
 2. Cấu hình cơ sở dữ liệu:
-- Tạo database trong SQL Server và MongoDB
+- Tạo database trong SQL Server
 - Cập nhật thông tin kết nối trong file `application.properties`
 3. Cài đặt dependencies back-end:
 mvn install
@@ -52,7 +52,7 @@ npm start
 Giao diện người dùng sẽ chạy tại `http://localhost:3000`
 
 ### Sử dụng
-- Truy cập vào địa chỉ `http://localhost:8080` (hoặc `http://localhost:3000` nếu front-end chạy riêng)
+- Truy cập vào địa chỉ `http://localhost:8080`
 - Đăng nhập với tài khoản mặc định:
 - Username: admin
 - Password: xataradj
@@ -62,7 +62,7 @@ Giao diện người dùng sẽ chạy tại `http://localhost:3000`
 API documentation có thể được truy cập tại `http://localhost:8080/swagger-ui.html` sau khi chạy ứng dụng.
 
 ## Công nghệ sử dụng
-- Cơ sở dữ liệu (Database): Sử dụng SQL Server cho dữ liệu quan hệ và MongoDB cho dữ liệu phi quan hệ.
+- Cơ sở dữ liệu (Database): Sử dụng SQL Server cho dữ liệu quan hệ.
 - Back-end: Sử dụng Java Spring Boot để xây dựng các API.
 - Front-end: Sử dụng HTML, CSS để xây dựng giao diện người dùng.
 
